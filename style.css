@@ -191,6 +191,11 @@
             /* background-color: #60a5fa; */
         }
 
+        .logo-container{
+            width: 70px;
+            height: 70px;
+        }
+
         .hero-pattern {
             position: absolute;
             z-index: 1;
