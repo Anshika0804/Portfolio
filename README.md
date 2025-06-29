@@ -7,7 +7,7 @@ I’m Anshika Rai, a passionate Web Developer and Computer Science undergraduate
 
 ## ✨ Live Preview
 
-🔗 [Visit My Website](https://your-deployed-site-url.com)  
+🔗 [Visit My Website](https://anshika-rai-portfolio.netlify.app/)  
 *(Update this with your actual deployed site, e.g., Netlify, GitHub Pages, Vercel, etc.)*
 
 ---
