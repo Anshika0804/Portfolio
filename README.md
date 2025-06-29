@@ -71,13 +71,13 @@ I’m Anshika Rai, a passionate Web Developer and Computer Science undergraduate
 
 ## 📁 Projects Featured
 
-### 🔸 [JCacheX](https://github.com/yourusername/jcachex)
+### 🔸 [JCacheX](https://github.com/Anshika0804/CACHE_SYSTEM)
 A Redis-inspired Java cache with TTL, AOF persistence, log rotation, and thread safety.
 
-### 🔸 [OS Process Scheduling Simulator](https://github.com/yourusername/os-scheduler)
-CPU scheduling simulator in Java with FCFS, SJF, RR, and Priority + Gantt chart.
+### 🔸 [OS Process Scheduling Simulator](https://github.com/Anshika0804/OS_PROJECT)
+CPU scheduling simulator in Python with FCFS, SJF, RR, and Priority + Gantt chart.
 
-### 🔸 [Portfolio Website](https://github.com/yourusername/portfolio)
+### 🔸 [Portfolio Website](https://github.com/Anshika0804/Portfolio)
 This website – built with HTML, CSS, JavaScript, and smooth animations.
 
 ---
