@@ -8,7 +8,6 @@ I’m Anshika Rai, a passionate Web Developer and Computer Science undergraduate
 ## ✨ Live Preview
 
 🔗 [Visit My Website](https://anshika-rai-portfolio.netlify.app/)  
-*(Update this with your actual deployed site, e.g., Netlify, GitHub Pages, Vercel, etc.)*
 
 ---
 
@@ -87,7 +86,7 @@ This website – built with HTML, CSS, JavaScript, and smooth animations.
 - 📍 New Delhi, India  
 - 📧 Email: [anshikacoder10@gmail.com](mailto:anshikacoder10@gmail.com)  
 - 📞 Phone: +91 98119 47748  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/yourusername)
+- 🔗 [LinkedIn](www.linkedin.com/in/anshika-rai0804) | [GitHub](https://github.com/Anshika0804)
 
 ---
 
