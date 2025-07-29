@@ -45,7 +45,6 @@ I’m Anshika Rai, a passionate Web Developer and Computer Science undergraduate
 ## 🛠 Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Frameworks**: React.js
 - **Animations**: CSS animations, smooth scroll
 - **Deployment**: Netlify / GitHub Pages
 - **Tools**: Git, VS Code, GitHub
